@@ -1,0 +1,26 @@
+{
+  "name": "dbtutorial",
+  "version": "0.0.1",
+  "description": "Discord bot tutorial.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cathyjs": "^5.0.2",
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
